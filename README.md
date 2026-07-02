@@ -7,7 +7,7 @@ This is a public, redacted portfolio case study. It shows the research process, 
 ## Maintainer
 
 **Shikhar Agrawal**  
-Contact: `shikhar.quant@gmail.com`
+
 
 ## Current Status
 
